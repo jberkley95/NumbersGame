@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">Numbers Game</string>
+    <string name="text_congrats">Congratulations! You guessed in </string>
+    <string name="text_higher">Guess Higher!!</string>
+    <string name="text_lower">Guess Lower!</string>
+    <string name="text_tries">" tries."</string>
+</resources>
